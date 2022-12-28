@@ -6,8 +6,8 @@
       <div class="container">
           <div class="hero__item set-bg" data-setbg="{{ asset('frontend/img/hero/banner.jpg') }}">
               <div class="hero__text">
-                  <span>FRUIT FRESH</span>
-                  <h2>Vegetable <br />100% Organic</h2>
+                  <span>STEP INTO STYLE</span>
+                  <h2>Comfortable, <br> stylish shoes <br> for every step</h2>
                   <p>Free Pickup and Delivery Available</p>
                   <a href="#" class="primary-btn">SHOP NOW</a>
               </div>
@@ -53,7 +53,7 @@
     </section>
     <!-- Featured Section End -->
 
-    <!-- Banner Begin -->
+    {{-- <!-- Banner Begin -->
     <div class="banner">
       <div class="container">
         <div class="row">
@@ -70,5 +70,5 @@
         </div>
       </div>
     </div>
-    <!-- Banner End -->
+    <!-- Banner End --> --}}
 @endsection

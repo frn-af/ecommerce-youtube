@@ -162,7 +162,6 @@ const ProductShop = () => {
                     })
                 )}
             </div>
-            <div className="d-flex justify-content-center">pagination</div>
         </>
     );
 };

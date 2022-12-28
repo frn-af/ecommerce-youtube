@@ -146,8 +146,8 @@ const ProductDetail = () => {
                                 </a>
                                 <ul>
                                     <li>
-                                        <b>Weight</b>{" "}
-                                        <span>{product.weight} gram</span>
+                                        <b>Size</b>{" "}
+                                        <span>{product.weight}</span>
                                     </li>
                                     <li>
                                         <b>Share on</b>
